@@ -1,0 +1,40 @@
+.product {
+    border: 3px solid #ffc800; 
+    border-radius: 30px;
+    padding: 10px;
+    margin-bottom: 20px; 
+  }
+  
+  .product img {
+    max-width: 100%;
+    border-radius: 30px; 
+    height: auto;
+  }
+  
+  .product h3 {
+    margin-top: 0;
+    color:#ffc800 
+  }
+  
+  .product p {
+    font-weight: bold;
+    color: #ff0000;
+    font-size: 30px; 
+  }
+  
+  .product button {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 5px 10px; 
+    cursor: pointer; 
+    width: 250px;
+    border-radius: 30px;
+    height: 60px;
+  }
+  
+  .product button:hover {
+    background-color: #0056b3;
+    transition: 0.3s;
+  }
+  
