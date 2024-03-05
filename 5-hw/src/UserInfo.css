@@ -1,0 +1,18 @@
+.user-info-container {
+    border: 2px solid hsl(261, 100%, 50%);
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .user-info-container h2 {
+    margin-top: 0;
+    font-size: 1.5rem;
+    color:hsl(261, 100%, 50%);
+  }
+  
+  .user-info-container p {
+    margin: 10px 0;
+    color: hsl(198, 100%, 35%);
+  }
+  
